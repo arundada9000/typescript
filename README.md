@@ -10,6 +10,7 @@ A personal journey learning TypeScript through hands-on examples with a chai/tea
 - Union types (`basics/unions.ts`)
 - `any` vs `unknown` (`basics/any-unknown.ts`)
 - Type assertions (`basics/type-assertions.ts`)
+- Object types, structural typing, and excess property checks (`basics/object-types.ts`)
 
 ### Functions
 - `typeof` type narrowing (`functions/typeof-narrowing.ts`)
