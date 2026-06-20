@@ -1,10 +1,21 @@
 # TypeScript Study Notes
 
-> Learning TypeScript — a personal study journey.
+> Learning TypeScript — a personal study journey by **Arun Neupane**.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-arunneupane.netlify.app-6d28d9?style=flat-square&logo=netlify&logoColor=white)](https://arunneupane.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arundada9000-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arundada9000)
+[![YouTube](https://img.shields.io/badge/YouTube-arundada9000-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@arundada9000)
+[![Email](https://img.shields.io/badge/Email-arunneupane0000@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arunneupane0000@gmail.com)
+
+</div>
 
 ## About
 
-This repository tracks my progress as I learn TypeScript. Each file focuses on a specific concept, with practical examples written around a **chai (tea)** theme to keep things fun and relatable.
+I'm a full-stack developer from Nepal — CTO at [Sajilo Digital](https://sajilodigital.com.np), building with React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My roots are in C and C++: I enjoy understanding _why_ things work, not just _how_.
+
+This repo tracks my TypeScript learning. Each file focuses on a specific concept with examples written around a **chai (tea)** theme — keeps it fun and relatable.
 
 ## Topics Covered
 
@@ -51,6 +62,20 @@ npx tsc
 npm start
 ```
 
-## Author
+## Contributing
 
-**Arun Neupane**
+This is a learning repo — open to contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arundada9000&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117)
+
+_Building things that ship._
+
+</div>

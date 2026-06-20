@@ -4,12 +4,12 @@ apiRequestStatus = "pending";
 
 let airlineSeat: "aisle" | "window" | "middle" = "aisle";
 
-const orders = ["12", "20", "nehu", "69"];
+const orders = ["12", "20", "arun", "69"];
 
 let currentOrder: string | undefined;
 
 for (const order of orders) {
-  if (order === "nehu") {
+  if (order === "arun") {
     currentOrder = order;
     break;
   }

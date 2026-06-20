@@ -5,5 +5,5 @@ function serveChai(msg?: string) {
   return `Serving default masala chai`;
 }
 
-console.log(serveChai("nehu"));
+console.log(serveChai("arun"));
 console.log(serveChai());
