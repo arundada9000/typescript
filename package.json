@@ -1,0 +1,23 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "description": "Learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js",
+    "dev": "npx tsc"
+  },
+  "keywords": [
+    "arundada9000",
+    "arunneupane",
+    "ts",
+    "tsc"
+  ],
+  "author": "Arun Neupane",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
