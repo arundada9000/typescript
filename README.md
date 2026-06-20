@@ -1,6 +1,6 @@
 # TypeScript Study Notes
 
-> Learning TypeScript — a personal study journey by **Arun Neupane**.
+> Learning TypeScript - a personal study journey by **Arun Neupane**.
 
 <div align="center">
 
@@ -13,45 +13,45 @@
 
 ## About
 
-I'm a full-stack developer from Nepal — CTO at [Sajilo Digital](https://sajilodigital.com.np), building with React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My roots are in C and C++: I enjoy understanding _why_ things work, not just _how_.
+I'm a full-stack developer from Nepal: CTO at [Sajilo Digital](https://sajilodigital.com.np), building with React, Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB. My roots are in C and C++: I enjoy understanding _why_ things work, not just _how_.
 
-This repo tracks my TypeScript learning. Each file focuses on a specific concept with examples written around a **chai (tea)** theme — keeps it fun and relatable.
+This repo tracks my TypeScript learning. Each file focuses on a specific concept with examples written around a **chai (tea)** theme - keeps it fun and relatable.
 
 ## Topics Covered
 
 ### Basics
-- **Variable declarations & type inference** — `let`, `const`, inferred vs explicit types
-- **Union types** — `string | number`, `string | undefined`
-- **Literal types** — exact value types, combining with unions
+- **Variable declarations and type inference** - `let`, `const`, inferred vs explicit types
+- **Union types** - `string | number`, `string | undefined`
+- **Literal types** - exact value types, combining with unions
 
-### Functions & Type Narrowing
-- **`typeof` narrowing** — discriminating between `string` and `number` params
-- **Truthiness narrowing** — checking optional params with falsy checks
-- **Literal type narrowing** — switching behavior based on exact literal values
-- **`instanceof` narrowing** — distinguishing class instances at runtime
-- **Custom type predicates** — `obj is Type` for reusable runtime checks
+### Functions and Type Narrowing
+- **`typeof` narrowing** - discriminating between `string` and `number` params
+- **Truthiness narrowing** - checking optional params with falsy checks
+- **Literal type narrowing** - switching behavior based on exact literal values
+- **`instanceof` narrowing** - distinguishing class instances at runtime
+- **Custom type predicates** - `obj is Type` for reusable runtime checks
 
 ### OOP
-- **Classes** — constructors, `public` parameter properties
-- **Inheritance** — `extends`, `super()`, method overriding
+- **Classes** - constructors, `public` parameter properties
+- **Inheritance** - `extends`, `super()`, method overriding
 
 ## Project Structure
 
 ```
 src/
 ├── basics/
-│   ├── variables.ts        — type inference, explicit types
-│   ├── unions.ts           — union type declarations
-│   └── literals.ts         — literal types with unions
+    │   ├── variables.ts        - type inference, explicit types
+    │   ├── unions.ts           - union type declarations
+    │   └── literals.ts         - literal types with unions
 ├── functions/
-│   ├── typeof-narrowing.ts     — typeof type guard
-│   ├── optional-params.ts      — truthiness narrowing
-│   ├── literal-narrowing.ts    — literal comparison narrowing
-│   ├── instanceof-narrowing.ts — instanceof type guard
-│   └── type-predicates.ts      — custom type predicate
+    │   ├── typeof-narrowing.ts     - typeof type guard
+    │   ├── optional-params.ts      - truthiness narrowing
+    │   ├── literal-narrowing.ts    - literal comparison narrowing
+    │   ├── instanceof-narrowing.ts - instanceof type guard
+    │   └── type-predicates.ts      - custom type predicate
 ├── oop/
-│   └── chai-classes.ts         — classes & inheritance
-└── index.ts                     — entry point
+    │   └── chai-classes.ts         - classes and inheritance
+    └── index.ts                     - entry point
 ```
 
 ## Setup
@@ -64,11 +64,11 @@ npm start
 
 ## Contributing
 
-This is a learning repo — open to contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+This is a learning repo - open to contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT - see [LICENSE](LICENSE) for details.
 
 ---
 
