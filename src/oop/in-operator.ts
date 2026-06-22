@@ -3,7 +3,7 @@ type MasalaChai = { type: "masala"; spiceLevel: number };
 type GingerChai = { type: "ginger"; amount: number };
 
 function brew(order: MasalaChai | GingerChai) {
-  if ("spicelevel" in order) {
+  if ("spiceLevel" in order) {
   }
 }
 
