@@ -30,6 +30,19 @@ A personal journey learning TypeScript through hands-on examples with a chai/tea
 
 ### Generics
 - Basic generics (`generics/first-item.ts`)
+- Generic `wrapInArray` function (`generics/wrap-in-array.ts`)
+- Multiple type parameters with `pair` (`generics/pair.ts`)
+- Generic interfaces (`generics/generic-interface.ts`)
+- Generic `fetchData` with `Promise<T>` (`generics/generic-fetch.ts`)
+- `keyof` constraint (`generics/keyof-constraint.ts`)
+- `Omit` utility type (`generics/omit-utility.ts`)
+- `Partial` utility type (`generics/partial-utility.ts`)
+- `Pick` utility type (`generics/pick-utility.ts`)
+
+### Interfaces
+- Basic, callable, method and index signatures (`interface/basic.ts`)
+- Declaration merging (`interface/declaration-merging.ts`)
+- Interface `extends` (`interface/extends.ts`)
 
 ### OOP (Object-Oriented Programming)
 - Classes and inheritance (`oop/classes.ts`)
@@ -40,6 +53,13 @@ A personal journey learning TypeScript through hands-on examples with a chai/tea
 - Discriminated unions (`oop/discriminated-unions.ts`)
 - `in` operator narrowing (`oop/in-operator.ts`)
 - Error handling with try/catch (`oop/try-catch.ts`)
+
+### Web Requests
+- Fetch API with typed response (`webRequest/fetchRequest.ts`)
+- Axios with typed response and error handling (`webRequest/axiosRequest.ts`)
+
+### React + TypeScript
+- React project with Vite (`react-ts/`) - components, hooks, typed props
 
 ## Setup
 
